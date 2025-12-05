@@ -28,7 +28,7 @@ This is a static HTML page that can be deployed on:
 1. Push this repository to GitHub
 2. Go to Settings → Pages
 3. Select the branch (main/master) and root folder
-4. Your page will be live at `https://yourusername.github.io/cnect/`
+4. Your page will be live at `https://yourusername.github.io/connect-/`
 
 ## Usage
 
